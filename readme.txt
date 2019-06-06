@@ -7,3 +7,5 @@ Merge test
 quick save test
 quick save test 2
 stash test
+stash test 2
+Git is instresting !
